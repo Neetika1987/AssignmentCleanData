@@ -34,7 +34,6 @@ The following files are available for the train and test data. Their description
 About run_analysis.R
 
 The script is running in following steps:
-
 1. Firstly it reads features data from X_train.txt and X_test.txt. It does row binding or union of these two files.
 2. It reads Subject data for both training and test. Again it does row binding or union of these two files.
 3. It reads Activity data for both training and test. Again it does row binding or union of these two files.
